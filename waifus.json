@@ -230,15 +230,6 @@
     "id": 27,
     "origin": "Girls und Panzer"
   },
-  "28": {
-    "profile": "save/waifu/waifu_28.png",
-    "name": "Shinobu Kocho",
-    "description": "Shinobu est une pourfendeuse de démons de l\u0027Armée des pourfendeurs de démons et de l\u0027actuelle Pilier de l\u0027Insecte. C\u0027est également la sœur cadette de Kanae Kocho avec sa sœur cadette adoptive Kanao Tsuyuri.",
-    "owner": "315431392789921793",
-    "type": "Catégorie : ANIME",
-    "id": 28,
-    "origin": "Demon Slayer"
-  },
   "29": {
     "profile": "save/waifu/waifu_29.png",
     "name": "Élise",
@@ -267,6 +258,7 @@
     "profile": "save/waifu/waifu_32.png",
     "name": "Sarah Kerrigan",
     "description": "Autrefois un fantôme de l\u0027humanité, elle fût trahie par Arcturius Mangsk et abandonnée aux mains des zergs et du Maître Esprit. Le Maître Esprit, décidé à soustraire ses zergs au contrôle d\u0027Amon, transforma Kerrigan en celle qui fût nommée la Reine des Lames mais Jim Raynor un humain toujours amoureux de celle-ci réussit à la rendre de nouveau humaine après de longues années de combat et de ravages par les zergs. Cependant Sarah décida pour se venger de Mengsk, de redevenir la Reine de tous les zergs, une nouvelle Reine des Lames mais cette fois contrôlée par sa propre conscience et non par les résidus de la conscience du Maître Esprit, atteignant par la même occasion les rêves du Maître Esprit autrefois contrôlé lui-même par Amon, plus tard, elle assouvit sa vengeance sur Mengsk et au cours de son dernier combat elle devînt la dernière Xel\u0027Naga et railla définitivement Amon de l\u0027univers.",
+    "owner": "315431392789921793",
     "type": "Catégorie : JEUX_VIDEO",
     "id": 32,
     "origin": "Starcraft"
@@ -315,6 +307,7 @@
     "profile": "save/waifu/waifu_38.png",
     "name": "Maria Suzuki",
     "description": "Étudiante en 2eme année à l\u0027académie d\u0027Oarai, Maria est la chargeuse du tank \"Léopon\". Elle est également membre du club d\u0027automobiles.",
+    "owner": "335074908998598673",
     "type": "Catégorie : ANIME",
     "id": 38,
     "origin": "Girls und Panzer"
