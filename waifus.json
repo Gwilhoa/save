@@ -45,6 +45,7 @@
     "profile": "save/waifu/waifu_5.png",
     "name": "Mako Reizei",
     "description": "Étudiante en 2eme année à l\u0027académie d\u0027Oarai, Mako est la conductrice du tank \"Lotte de mer\".",
+    "owner": "280959408119349248",
     "type": "Catégorie : ANIME",
     "id": 5,
     "origin": "Girls und Panzer"
@@ -53,6 +54,7 @@
     "profile": "save/waifu/waifu_6.png",
     "name": "Anzu Kadotani",
     "description": "Étudiante en 3eme année à l\u0027académie d\u0027Oarai, Anzu est la commandante et l\u0027opératrice radio du tank \"Tortue\". C\u0027est également la dirigeante du conseil des élèves.",
+    "owner": "315431392789921793",
     "type": "Catégorie : ANIME",
     "id": 6,
     "origin": "Girls und Panzer"
@@ -86,6 +88,7 @@
     "profile": "save/waifu/waifu_10.png",
     "name": "Erwin",
     "description": "De son vrai nom Riko Matsumoto, Erwin est une étudiante en 2eme année à l\u0027académie d\u0027Oarai. Elle est la commandante et l\u0027opératrice radio du tank \"Hippo\". C\u0027est également une membre importante du club d\u0027histoire de part ses connaissances sur la Seconde Guerre Mondiale.",
+    "owner": "335074908998598673",
     "type": "Catégorie : ANIME",
     "id": 10,
     "origin": "Girls und Panzer"
@@ -119,6 +122,7 @@
     "profile": "save/waifu/waifu_14.png",
     "name": "ashe",
     "description": "Chef de guerre sublimé de la tribu des Avarosans, Ashe est à la tête de la plus vaste horde des terres du nord. Stoïque, intelligente et idéaliste, mais mal à l\u0027aise dans son rôle de leader, elle puise dans la magie ancestrale de sa lignée pour manier un arc de glace pure. Soutenue par son peuple qui voit en elle la réincarnation de la légendaire héroïne Avarosa, Ashe cherche à unifier Freljord en reprenant les terres tribales.",
+    "owner": "332094319970222080",
     "type": "Catégorie : JEUX_VIDEO",
     "id": 14,
     "origin": "League of legends"
@@ -144,6 +148,7 @@
     "profile": "save/waifu/waifu_17.png",
     "name": "Taeko Kondou",
     "description": "Étudiante en 2eme année à l\u0027académie d\u0027Oarai, Taeko est l\u0027opératrice radio du tank \"Canard\". Elle est également membre du club de Volley-ball.",
+    "owner": "243001541810847745",
     "type": "Catégorie : ANIME",
     "id": 17,
     "origin": "Girls und Panzer"
@@ -177,6 +182,7 @@
     "profile": "save/waifu/waifu_21.png",
     "name": "Akebi Sasaki",
     "description": "Étudiante en 2eme année à l\u0027académie d\u0027Oarai, Akebi est l\u0027artilleuse du tank \"Canard\". Elle est également membre du club de Volley-ball.",
+    "owner": "315431392789921793",
     "type": "Catégorie : ANIME",
     "id": 21,
     "origin": "Girls und Panzer"
@@ -229,6 +235,14 @@
     "type": "Catégorie : ANIME",
     "id": 27,
     "origin": "Girls und Panzer"
+  },
+  "28": {
+    "profile": "save/waifu/waifu_28.png",
+    "name": "Pétra",
+    "description": "Pour la plupart, Terminus est un royaume carcéral dystopique où des indésirables effroyablement violents et dangereux sont bannis. À Petra, Terminus est la maison.\n\nNée dans la dimension chaotique du lien qui contient Terminus, Petra était aussi sauvage et ingouvernable que son monde natal. Alors qu\u0027elle était jeune gamin des rues, Petra achetait et vendait tout ce qui était interdit - packs de stimulation, potions de mana, mayochup. Elle combattrait n\u0027importe qui de quelque manière que ce soit - à seize ans, elle a repris son gang de rue en battant l\u0027ancien patron dans ce qui ne peut être décrit que comme des échecs mortels au laser volant. À dix-huit ans, son gang, les Incarnés, dirigeait les Raptor Pits et les Cyborg Rings. Et à dix-neuf ans, les Incarnés ont remporté une guerre de territoire qui leur a donné le contrôle d\u0027une carrière Darkheart qui allait changer la vie de Petra pour toujours.\n\nAvant que Terminus ne soit une prison, c\u0027était une mine - la seule source dans le multivers du minerai cryptique appelé Darkheart. La puissance et le danger de Darkheart étaient si grands que les dieux ont plié Terminus dans sa propre dimension et l\u0027ont déclaré éternellement lié juste pour mettre le minerai en quarantaine. Darkheart est devenu la contrebande cosmique ultime.\n\nCertains disent que Petra a été infectée par Darkheart, d\u0027autres disent qu\u0027elle a débloqué son pouvoir. Quelle que soit la vérité, elle a apporté ce minerai mythique et la force qu\u0027il imprègne au Valhalla. À Valhalla, Petra est querelleuse, violente, maussade, indisciplinée et très appréciée. Ses matchs d\u0027épargne Orb avec Thor attirent d\u0027énormes foules et d\u0027énormes amendes pour dommages matériels - que les deux ignorent.",
+    "type": "Catégorie : JEUX_VIDEO",
+    "id": 28,
+    "origin": "Brawlhalla"
   },
   "29": {
     "profile": "save/waifu/waifu_29.png",
@@ -316,6 +330,7 @@
     "profile": "save/waifu/waifu_39.png",
     "name": "Muuton Tsuchiya",
     "description": "Étudiante en 2eme année à l\u0027académie d\u0027Oarai, Muuton est la conductrice du tank \"Léopon\". Elle est également membre du club d\u0027automobiles.",
+    "owner": "779435257094864947",
     "type": "Catégorie : ANIME",
     "id": 39,
     "origin": "Girls und Panzer"
@@ -324,6 +339,7 @@
     "profile": "save/waifu/waifu_40.png",
     "name": "Nekonya",
     "description": "De son vrai nom Mai Nekota. C\u0027est une étudiante en 2eme année à l\u0027académie d\u0027Oarai. Elle est la commandante et l\u0027opératrice radio du tank \"Fourmilier\". Elle est également une fanatique de jeux vidéo.",
+    "owner": "335074908998598673",
     "type": "Catégorie : ANIME",
     "id": 40,
     "origin": "Girls und Panzer"
@@ -365,6 +381,7 @@
     "profile": "save/waifu/waifu_45.png",
     "name": "Flint",
     "description": "Plus connu sous le nom de \"Grandes vagues\", Flint est la conductrice en second et l\u0027opératrice radio du tank de l\u0027équipe \"Requin\". Elle est également l\u0027une des personnes les plus importantes des bas-fonds de bateau-académie d\u0027Oarai en étant la chanteuse la plus populaire du bar.",
+    "owner": "298866667264409601",
     "type": "Catégorie : ANIME",
     "id": 45,
     "origin": "Girls und Panzer"
@@ -405,6 +422,7 @@
     "profile": "save/waifu/waifu_50.png",
     "name": "Nico Robin",
     "description": "Nico Robin est un membre de l\u0027équipage du chapeau de paille, ainsi que l\u0027utilisatrice du Hana Hana no Mi, le fruit des éclosions.",
+    "owner": "497012099176988702",
     "type": "Catégorie : ANIME",
     "id": 50,
     "origin": "One Piece"
